@@ -1,0 +1,8 @@
+{
+  "name": "Remix Gofold ",
+  "description": "Bán xe scoter",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
